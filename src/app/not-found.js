@@ -9,7 +9,7 @@ const Notfound = () => {
         <div className={styles.error_page}>
             <h1>404</h1>
             <h2>Not Found</h2>
-            <p>Couldn't found requested source</p>
+            <p>Could not found requested source</p>
             <Link href="/">
               <button>Go to Home page</button>
             </Link>
