@@ -103,6 +103,7 @@ button:hover {
     transition-duration: .1s;
 }
 
+
 @media (min-width: 768px) {
     button {
         padding: 0 2.6rem;

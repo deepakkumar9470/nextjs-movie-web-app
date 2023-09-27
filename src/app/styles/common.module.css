@@ -115,6 +115,21 @@
     border-color: #e50914 transparent #e50914 transparent;
     animation: loading 1.2s infinite;
 }
+
+
+.pagination{
+    display: flex;
+    gap:1.8rem;
+    justify-content: center;
+}
+.pagLinks{
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 8px;
+    cursor: pointer;
+}
+
 @keyframes loading {
     0% {
         transform: rotate(0);
